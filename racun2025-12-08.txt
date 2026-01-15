@@ -1,0 +1,5 @@
+2025-12-08
+Sladoled, 2, 2.5
+Jabuka, 5, 0.3
+Voda, 1, 1.8
+Keksi, 1, 4
